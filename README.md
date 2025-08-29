@@ -1,12 +1,34 @@
-# React + Vite
+# React Slick Carousel with accessibility
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web-application attempts to cover all accessibility standards according to the rules set by WCAG.
 
-Currently, two official plugins are available:
+### To run the application locally -
+ - `cd` into the project directory
+ - run `npm install` to install the dependencies
+ - run `npm run dev` and the app will be up and running at `localhost:5173`
+## Run Locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone the project
 
-## Expanding the ESLint configuration
+```bash
+  https://github.com/memerald/saralx-test.git
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Go to the project directory
+
+```bash
+  cd saralx-test
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
